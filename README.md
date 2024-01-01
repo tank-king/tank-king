@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **tank-king/tank-king** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I develop games, and create programming tutorials on YouTube.
+I develop games, and create programming tutorials on YouTube!
 
+<div>
+<img src="https://img.shields.io/badge/GameDev-BB0000?logo=itchdotio&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/YouTube-BB0000?logo=youtube&logoColor=white&style=for-the-badge">
+</div>
+
+<!--
 <table style="border:none">
   <tr>
     <td><a href="https://tank-king.itch.io">
@@ -33,3 +40,4 @@ I develop games, and create programming tutorials on YouTube.
   </tr>
 </table>
 </div>
+-->
