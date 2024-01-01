@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 I develop games, and create programming tutorials on YouTube!
 
 <div>
-<img src="https://img.shields.io/badge/GameDev-BB0000?logo=itchdotio&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/YouTube-BB0000?logo=youtube&logoColor=white&style=for-the-badge">
+<a href="https://tank-king.itch.io"><img src="https://img.shields.io/badge/GameDev-BB0000?logo=itchdotio&logoColor=white&style=for-the-badge"></a>
+<a href="https://discord.com/invite/qh8XGWypvg"><img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge"></a>
+<a href="https://youtube.com/c/rounak-bhowmik"><img src="https://img.shields.io/badge/YouTube-BB0000?logo=youtube&logoColor=white&style=for-the-badge"></a>
 </div>
+
+# Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tank-king&theme=highcontrast&border_radius=5&background=FFFFFF00)](https://git.io/streak-stats)
 
 <!--
 <table style="border:none">
