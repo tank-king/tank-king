@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 Hi, I make games, and make tutorials on YouTube.
 
-[-] Games Portfolio 
+- [Gamedev Portfolio](https://tank-king.itch.io)
+- [YouTube](https://youtube.com/c/rounak-bhowmik)
