@@ -21,7 +21,6 @@ I develop games, and create programming tutorials on YouTube!
 <a href="https://discord.com/invite/qh8XGWypvg" target="_blank"><img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge"></a>
 <a href="https://youtube.com/c/rounak-bhowmik" target="_blank"><img src="https://img.shields.io/badge/YouTube-BB0000?logo=youtube&logoColor=white&style=for-the-badge"></a>
 </div>
-<br>
 
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tank-king&theme=highcontrast&border_radius=5&card_height=405&background=0D1117FF)](https://git.io/streak-stats)
