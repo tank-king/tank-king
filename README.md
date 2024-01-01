@@ -22,7 +22,7 @@ I develop games, and create programming tutorials on YouTube!
 <a href="https://youtube.com/c/rounak-bhowmik" target="_blank"><img src="https://img.shields.io/badge/YouTube-BB0000?logo=youtube&logoColor=white&style=for-the-badge"></a>
 </div><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tank-king&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tank-king&layout=compact&theme=vision-friendly-dark)
 
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tank-king&theme=highcontrast&border_radius=5&card_height=405&background=0D1117FF)](https://git.io/streak-stats)
