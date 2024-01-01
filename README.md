@@ -24,9 +24,9 @@ I develop games, and create programming tutorials on YouTube!
 </div>
 <br>
 
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tank-king&theme=highcontrast&border_radius=5&background=FFFFFF00)](https://git.io/streak-stats)
 
-<!--
 <table style="border:none">
   <tr>
     <td><a href="https://tank-king.itch.io">
