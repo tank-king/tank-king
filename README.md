@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I make games, and make tutorials on YouTube.
+
+[-] Games Portfolio 
