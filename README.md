@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I make games, and make tutorials on YouTube.
+I make games, and make tutorials on YouTube.
 
 - [Gamedev Portfolio](https://tank-king.itch.io)
 - [YouTube](https://youtube.com/c/rounak-bhowmik)
