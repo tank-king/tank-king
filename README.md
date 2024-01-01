@@ -19,15 +19,15 @@ I develop games, and create programming tutorials on YouTube.
 <table style="border:none">
   <tr>
     <td><a href="https://tank-king.itch.io">
-      <img src="https://tank-king.github.io/assets/images/logos/itchio-logo-textless-white.png" alt="Alt Text" width=40></td>
+      <img src="https://tank-king.github.io/assets/images/logos/itchio-logo-textless-white.png" alt="Alt Text" width=30></td>
     <td>Game Dev Portfolio</td>
   </tr>
   <tr>
-    <td><a href="https://youtube.com/c/rounak-bhowmik"><img src="https://tank-king.github.io/assets/images/logos/yt_icon_mono_dark.png" alt="Alt Text" width=40></td>
+    <td><a href="https://youtube.com/c/rounak-bhowmik"><img src="https://tank-king.github.io/assets/images/logos/yt_icon_mono_dark.png" alt="Alt Text" width=30></td>
     <td>YouTube Channel</td>
   </tr>
   <tr>
-    <td><a href="https://discord.com/invite/qh8XGWypvg"><img src="https://tank-king.github.io/assets/images/logos/discord-logo.png" alt="Alt Text" width=40></td>
+    <td><a href="https://discord.com/invite/qh8XGWypvg"><img src="https://tank-king.github.io/assets/images/logos/discord-logo.png" alt="Alt Text" width=30></td>
     <td>Discord Server</td>
   </tr>
 </table>
