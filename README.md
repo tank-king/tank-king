@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 I develop games, and create programming tutorials on YouTube.
 
 <table style="border:none">
