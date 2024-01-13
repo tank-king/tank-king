@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I develop games, and create programming tutorials on YouTube!
+I make games & software, and create programming tutorials on YouTube!
 <div>
 <a href="https://tank-king.itch.io" target="_blank"><img src="https://img.shields.io/badge/GameDev-BB0000?logo=itchdotio&logoColor=white&style=for-the-badge"></a>
 <a href="https://discord.com/invite/qh8XGWypvg" target="_blank"><img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge"></a>
